@@ -1,2 +1,4 @@
 # eBPF_communityID
-communityID calculation using golang; specifically for useage with eBPFs.
+Landing place for communityID calculation using golang. Will add code when i get the licencing stuff sorted out. Specifically for useage with eBPFs.
+
+

@@ -1,4 +1,4 @@
 # eBPF_communityID
-Landing place for communityID calculation using golang. Will add code when i get the licencing stuff sorted out. Specifically for useage with eBPFs.
+This is a fork of https://github.com/satta/gommunityid. Biggest change is that I removed a dependency which installs pcap libraries everywhere. This library is BETA software, and is intended to allow integration with eBPFs system monitoring tooling.
 
 
